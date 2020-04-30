@@ -1,6 +1,9 @@
 config-files
 ============
 
+## pre install
+
+Install git and zsh
 
 #### via curl
 
