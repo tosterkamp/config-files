@@ -1,1 +1,2 @@
 alias cp="rsync -ah --progress"
+alias ll="ls -la"
