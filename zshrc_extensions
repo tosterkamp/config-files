@@ -1,2 +1,4 @@
 alias cp="rsync -ah --progress"
 alias ll="ls -la"
+
+alias update-config="git -C ~/.config-repo pull"
